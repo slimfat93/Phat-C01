@@ -1,0 +1,89 @@
+body {
+  color: #173451;
+  width: 80%;
+  margin: auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: #992154;
+}
+
+h2 {
+  color: #fcbf16;
+}
+
+nav {
+  font-size: large;
+  padding: 2rem;
+  justify-content: space-between;
+  background-color: #fcbf16;
+  display: flex;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  width: 200px;
+}
+#hinh_article {
+  width: 98%;
+}
+
+#avatar {
+  width: 500px;
+}
+#hinh_noel {
+  width: 500px;
+}
+
+#work_place {
+  width: 300px;
+}
+
+a {
+  text-decoration: none;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+aside {
+  background-color: antiquewhite;
+}
+
+.right-aside {
+  width: 30%;
+  text-align: center;
+}
+.left-aside {
+  background-color: white;
+}
+
+video {
+  width: 500px;
+}
+
+audio {
+  width: 500px;
+}
+
+div,
+a {
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  background-color: blue;
+  color: #fcbf16;
+  padding: 5px;
+  size: 30px;
+}
